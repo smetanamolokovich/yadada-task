@@ -15,3 +15,9 @@ code {
     padding: 0;
     box-sizing: border-box;
 }
+
+.chakra-button,
+.chakra-menu__menu-button {
+    outline: none !important;
+    box-shadow: none !important;
+}
