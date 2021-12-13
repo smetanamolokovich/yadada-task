@@ -83,7 +83,7 @@ export default function Nav() {
                                                 size={'2xl'}
                                                 src={
                                                     user.photoURL ||
-                                                    'https://via.placeholder.com/40x40?text=?'
+                                                    'https://via.placeholder.com/128x128?text=?'
                                                 }
                                             />
                                         </Center>
